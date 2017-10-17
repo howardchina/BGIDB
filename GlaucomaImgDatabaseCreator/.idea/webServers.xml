@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b38ad300-7039-43fe-b4ec-46c367da9104" name="gidb_remote" url="http://202.197.66.62">
+        <fileTransfer host="202.197.66.62" port="21322" rootFolder="/mnt/www/gidb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21322" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

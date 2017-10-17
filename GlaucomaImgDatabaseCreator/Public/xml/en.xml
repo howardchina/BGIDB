@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding='utf-8'?>  
+<en>  
+    <button>
+        <tab_prePic>Pre</tab_prePic>  
+        <tab_nextPic>Next</tab_nextPic>  
+        <tab_forPic>GO</tab_forPic>  
+        <tab_statue>Edit</tab_statue>  
+        <tab_undo>Undo</tab_undo>  
+        <tab_redo>Redo</tab_redo>  
+        <tab_clear>Reset</tab_clear>  
+        <tab_already>Load</tab_already>  
+        <tab_save>Save</tab_save>
+    </button>
+    <span>
+    	<tab_picID_title>Page</tab_picID_title>  
+        <tab_task_title>Type</tab_task_title>  
+        <tab_note_title>Expert commet</tab_note_title>
+        <tab_tool_title>Marking tools</tab_tool_title>
+    </span>
+    <label>
+    	<tab_lor_title>Left or Right:</tab_lor_title>  
+        <tab_rnfl_title>RNFL Defect:</tab_rnfl_title>  
+        <tab_notch_title>Notch:</tab_notch_title>  
+        <tab_haemorrh_title>Haemorrh:</tab_haemorrh_title>  
+        <tab_appa_title>Alpha PPA</tab_appa_title>  
+        <tab_bppa_title>Beta PPA</tab_bppa_title>  
+        <tab_ddls_title>DDLS Level</tab_ddls_title>  
+        <tab_isgla_title>Diagnosis</tab_isgla_title>  
+        <roi_title>ROI Center</roi_title>  
+        <cupheight_title>Cup Height</cupheight_title>  
+        <discheight_title>Disc Height</discheight_title>  
+        <cdr_title>CDR</cdr_title>          
+    </label>
+    <input>
+    	<tab_picID>image number...</tab_picID>
+    	<tab_note>the added...</tab_note>
+    </input>
+    <select>
+    	<tab_task>
+    		<option_0>Cup</option_0>
+    		<option_1>Disc</option_1>
+    	</tab_task>
+        <tab_tool>
+            <option_0>B-spline</option_0>
+            <option_1>Ellipse</option_1>
+            <option_2>Ellipse and free move</option_2>
+        </tab_tool>
+    	<tab_lor>
+    		<option_0>Right Eye</option_0>
+    		<option_1>Left Eye</option_1>
+    	</tab_lor>
+    	<tab_rnfl>
+    		<option_0>No RNFL Defect</option_0>
+    		<option_1>RNFL Defect</option_1>
+    	</tab_rnfl>
+    	<tab_notch>
+    		<option_0>No Notch</option_0>
+    		<option_1>Notch</option_1>
+    	</tab_notch>
+    	<tab_haemorrh>
+    		<option_0>No Haemorrh</option_0>
+    		<option_1>Haemorrh</option_1>
+    	</tab_haemorrh>
+    	<tab_appa>
+    		<option_0>No Alpha PPA</option_0>
+    		<option_1>Alpha PPA</option_1>
+    	</tab_appa>
+    	<tab_bppa>
+    		<option_0>No Beta PPA</option_0>
+    		<option_1>Beta PPA</option_1>
+    	</tab_bppa>
+    	<tab_isgla>
+    		<option_0>Positive</option_0>
+    		<option_1>Negative</option_1>
+    		<option_1>Confirm Further</option_1>
+    	</tab_isgla>
+    </select>
+    <TP>
+    	<page_title>Fundus images database</page_title>
+    	<top_nav_title>CSU FUNDUS IMAGES DATABASE</top_nav_title>
+    	<top_nav_mainpage>Main page</top_nav_mainpage>
+    	<top_nav_calibration>Calibration</top_nav_calibration>
+        <top_nav_oct>OCT Calibration</top_nav_oct>
+    	<top_nav_algorithm>Verification of Algotirhm</top_nav_algorithm>
+    	<top_nav_screening>Screening</top_nav_screening>
+    	<top_nav_about>About</top_nav_about>
+    	<top_nav_admin>Admin</top_nav_admin>
+    </TP>
+</en>  
