@@ -2048,7 +2048,8 @@ $(document).ready(function(){
 	    var tmp = $("#tab_tool")[0].selectedIndex;
 	    for(var toolindex = 0; toolindex < 3; toolindex++){
 
-			$("#tab_tool")[0].selectedIndex = toolindex;
+			//$("#tab_tool")[0].selectedIndex = toolindex;
+			$("#tab_tool")[0].selectedIndex = 0;
 
 			generatePoints();
 			points_generate = points_generate_array[taskkind];
@@ -2061,7 +2062,8 @@ $(document).ready(function(){
 			ctxMask.translate(0,0);//以图片建立用户坐标系
 
 
-			ctxMask.fillStyle ='rgba(255,255,255,.666)';//填充颜色：白色，半透明
+			//ctxMask.fillStyle ='rgba(255,255,255,.667)';//填充颜色：白色，半透明
+			ctxMask.fillStyle ='rgb(255, 255, 255)';//填充颜色：白色
 			ctxMask.lineWidth = 10;
 		   	ctxMask.beginPath();
 
