@@ -1,6 +1,7 @@
 # BGIDB
 A Browser Server software for the management of both fundus image and retinal OCT image
-
+front end: JS, HTML, CSS(Bootstrap)
+back end: PHP (Thinkphp)
 Contact: howard@csu.edu.cn / heqi_work@qq.com 
 Author: Qi He
 
