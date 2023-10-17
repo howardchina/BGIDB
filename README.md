@@ -51,3 +51,19 @@ Import/Export image:
 | import fundus image and OCT image | import the labeled mask of fundus image and OCT image |
 | :-------------: | :-------------: |
 | <img src="./recordGIF/import.gif" width="300"> | <img src="./recordGIF/export.gif" width="300"> |
+
+## Reference
+If you find our work useful in your research, please consider citing our paper:
+```
+@article{zou2018bgidb,
+  title={BGIDB: A fundus ground truth building tool with automatic DDLS classification for glaucoma research},
+  author={Zou, Bei-ji and Guo, Yun-di and Chen, Zai-liang and He, Qi and Zhu, Cheng-zhang and Ouyang, Ping-bo},
+  journal={Journal of Central South University},
+  volume={25},
+  number={9},
+  pages={2058--2068},
+  year={2018},
+  publisher={Springer}
+}
+}
+```
