@@ -6,7 +6,7 @@ front end: JS, HTML, CSS(Bootstrap)
 
 back end: PHP (Thinkphp)
 
-Contact: howard@csu.edu.cn / heqi_work@qq.com 
+Contact: howard@tju.edu.cn
 
 Author: Qi He
 
